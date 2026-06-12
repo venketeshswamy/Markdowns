@@ -171,14 +171,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 fileLi.appendChild(fileNode);
                 filesUl.appendChild(fileLi);
 
-                // Open file in preview mode on single click
+                // Open file on click
                 fileNode.addEventListener('click', () => {
-                    openFile(folderName, filename, false);
-                });
-
-                // Open file in permanent mode on double click
-                fileNode.addEventListener('dblclick', () => {
-                    openFile(folderName, filename, true);
+                    openFile(folderName, filename);
                 });
             });
 
@@ -226,9 +221,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             });
 
-            tabEl.addEventListener('dblclick', () => {
-                pinTab(tab.id);
-            });
         });
 
         // Update selected file styling in explorer sidebar
@@ -240,39 +232,23 @@ document.addEventListener('DOMContentLoaded', () => {
         renderFileTree(elements.fileSearch.value);
     }
 
-    function openFile(folder, filename, pin = false) {
+    function openFile(folder, filename) {
         const tabId = `${folder}/${filename}`;
         const existingTab = state.openTabs.find(t => t.id === tabId);
 
         if (existingTab) {
-            if (pin && !existingTab.isPinned) {
-                existingTab.isPinned = true;
-            }
             activateTab(tabId);
             return;
         }
 
-        // Check if there is an unpinned preview tab we can replace
-        const previewTab = state.openTabs.find(t => !t.isPinned);
-
-        if (!pin && previewTab) {
-            // Replace the preview tab
-            previewTab.id = tabId;
-            previewTab.folder = folder;
-            previewTab.filename = filename;
-            previewTab.isPinned = false;
-            
-            activateTab(tabId);
-        } else {
-            // Add a new tab
-            state.openTabs.push({
-                id: tabId,
-                folder: folder,
-                filename: filename,
-                isPinned: pin
-            });
-            activateTab(tabId);
-        }
+        // Add a new tab
+        state.openTabs.push({
+            id: tabId,
+            folder: folder,
+            filename: filename,
+            isPinned: true
+        });
+        activateTab(tabId);
 
         // Close mobile sidebar after choosing file
         if (window.innerWidth <= 768) {
@@ -313,13 +289,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    function pinTab(tabId) {
-        const tab = state.openTabs.find(t => t.id === tabId);
-        if (tab && !tab.isPinned) {
-            tab.isPinned = true;
-            renderTabs();
-        }
-    }
 
     function showWelcomeScreen() {
         elements.welcomeScreen.classList.remove('hidden');

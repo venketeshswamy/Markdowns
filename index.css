@@ -611,16 +611,26 @@ body, html {
 }
 
 /* Override markmap colors to blend in with dark/light themes */
-#markmap-svg g.markmap-node text {
+#markmap-svg g.markmap-node text,
+#markmap-svg g.markmap-node tspan,
+#markmap-svg g.markmap-node foreignObject,
+#markmap-svg g.markmap-node foreignObject * {
     fill: var(--text-main) !important;
+    color: var(--text-main) !important;
     font-family: var(--font-ui) !important;
+}
+
+#markmap-svg g.markmap-node text,
+#markmap-svg g.markmap-node tspan {
     font-size: 13px !important;
     font-weight: 500 !important;
 }
+
 #markmap-svg g.markmap-node circle {
     stroke-width: 1.5px !important;
     fill: var(--editor-bg) !important;
 }
+
 #markmap-svg path.markmap-link {
     stroke-width: 1.5px !important;
     opacity: 0.8;
