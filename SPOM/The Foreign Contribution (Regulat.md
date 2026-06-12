@@ -1,0 +1,204 @@
+# 🇮🇳 The Foreign Contribution (Regulation) Act, 2010
+
+## 📜 Introduction & Scope
+- **Objective**: Protect India's sovereignty 🛡️; ensure foreign funds don't affect national interest.
+- **Administered By**: Ministry of Home Affairs (MHA).
+- **Applicability (Sec 1)**
+    - Whole of India.
+    - Citizens of India outside India.
+    - Indian companies/subsidiaries outside India.
+- **⚠️ Key 2020 Amendments**
+    - **Public Servants**: Now prohibited from accepting FC.
+    - **Transfer**: Transfer of FC to *any other person* is completely prohibited.
+    - **Admin Expenses**: Cap reduced from 50% to **20%**.
+    - **Aadhaar**: Mandatory for all office bearers/directors.
+    - **FCRA Account**: Must be in **SBI, New Delhi Main Branch**.
+
+## 📖 Important Definitions (Sec 2)
+- **Foreign Source (Sec 2(1)(j))** 🌍
+    - Foreign Govt / Agencies.
+    - International Agencies (Excluding UN, World Bank, IMF).
+    - Foreign Company / MNC.
+    - Trade Unions/Trusts/Societies outside India.
+    - Foreign Citizens.
+    - *Note: Indian company with >50% foreign share is NOT a foreign source if FEMA compliant.*
+- **Foreign Contribution (FC) (Sec 2(1)(h))** 💰
+    - Donation/Transfer of:
+        - **Article**: (Gift for personal use < ₹1 Lakh is EXEMPT).
+        - **Currency**: Foreign or Indian.
+        - **Security**: Foreign securities.
+- **Foreign Hospitality (Sec 2(1)(i))** ✈️
+    - Offer of travel, boarding, lodging, transport, medical treatment.
+    - *Excludes*: Purely casual offers.
+- <b>Person</b>
+    - Individual
+    - HUF
+    - Association
+    - Section 8 Company
+
+## 🚫 Prohibitions & Restrictions (Sec 3-10)
+- **Section 3: Who CANNOT accept FC?** ❌
+    - Candidates for election.
+    - Judges & Public Servants (inc. Govt employees).
+    - Members of Legislature (MPs/MLAs).
+    - Political Parties & office bearers.
+    - Journalists, Editors, Owners of newspapers/media.
+        - Even if not registered political party, if actions closely resemble them, CG may put them
+
+- **Section 4: Exceptions (FC Allowed)** ✅
+    - Salary/Wages/Remuneration.
+    - Payment for international trade/business.
+    - Agent of a foreign source (transaction with Govt).
+    - Gift as member of Indian delegation (per rules).
+    - **Relatives**: Allowed, but if > ₹10 Lakhs/year → Intimate Govt (Form FC-1 within 3 months).
+    - Scholarships/Stipends.
+- **Section 7: Prohibition to Transfer** 🛑
+    - **Strict Rule**: No person (registered or who got prior permission) can transfer that FC to *any other person*.
+- **Section 8: Utilization** 📉
+    - Use only for the specific purpose received.
+    - **No Speculative Business** (No mutual funds, shares, land investment).
+    - **Administrative Expenses**: Max **20%** of total contribution.
+        - If Exceeding 20%, prior CG approval needed
+- **Section 9: CG Power** 
+    - If CG is satisfied that any person's acceptance of contribution might affect India, it may ask to 
+        - Prohibit 
+        - Seek prior approval
+        - furnish info etc. 
+## 🏨 Foreign Hospitality (Sec 6)
+- **Who needs Prior Permission?**
+    - Members of Legislature.
+    - Office bearers of political parties.
+    - Judges.
+    - Govt Servants / Employees of Govt Corps.
+- Permission process
+    - Permission requrest to be accompanied by invitation letter of host country + Admin clearance of our country
+    - Application to reach before 2 weeks of onward journey
+- **Exemption (Emergency Medical Aid)** 🚑
+    - Sudden illness abroad.
+    - **Intimation**: Within **1 month** of receipt if value > ₹1 Lakh.
+- **Section 10: Prohibition to Deal with Contravention Assets** 🔒
+    - **Trigger**: CG satisfied after inquiry that person holds Article/Currency/Security in contravention.
+    - **Effect**: Written order prohibiting payment, delivery, transfer, or dealing.
+    - **Service of Order**:
+        - Personal delivery/Agent OR Regd. Post/Speed Post.
+        - If failing above: Affixing on premises (witnessed by 2 persons).
+    - **Legal Consequence**: **Sec 7 of Unlawful Activities Prevention Act** applies to such assets.
+    - Up to 3 year jail + Fine
+
+## 📝 Registration Structure (Sec 11-16)
+- **Two Modes of Entry**
+    | Feature | <center>Registration <br> (Mode I) </center>| <center>Prior Permission (Mode II) </center><br>|
+    | :--- | :--- | :--- |
+    | **Suitability** | Definite program exists     | Formative stage / Specific project |
+    | **Requirements** | 3 years existence + ₹15L spent | Specific donor + Specific amount |
+    | **Validity** | 5 Years | For specific purpose/amount |
+- **Application**: Form FC-3A (Reg) or FC-3B (Prior Perm) + Affidavit + ₹5000 fee.
+- **Section 12: Conditions**
+    - First Opens FCRA Account in form FC-6D
+    - Files form FC-3A or 3B as the case may be
+    - Govt Checklist
+        - Checks if any suspicious or illegal or harmful activities done by the person - due diligence
+        - If earlier certificate was suspended, till date its suspended, no new certificate
+    - Within 90 days
+        - Govt accept or
+            - Certificate of Registration valid for 5 years
+            - Permission valid till date given
+        - Govt Reject
+            - Reasons for rejection to be given in writing - To extent of RTI Act 2005
+        - If late, give reasons for delay
+    - Cooling period
+        - 2nd registration cannot be made for same project within 6 months 
+    - Allowing receipt in installments
+        - If amount more than 1 Crore AND
+        - 75% of 1st installment is utilised and 
+        - field inquiry is done
+- **Section 13: Suspension** ⏸️
+    - Pending cancellation inquiry.
+    - Max 180 days + 180 days extension.
+    - **Effect**: Custody frozen. Can spend max **25%** with CG approval.
+- **Section 14: Cancellation** ❌
+    - Grounds: False statement, violation of Act, defunct for 2 years, public interest.
+    - **Cooling Period**: Cannot re-register for **3 years**.
+- Surrender of Certificate
+    - Voluntary - without any contravention of law
+    - CG permits after satisfying itself of above point
+    - Certificate expires the date of acceptance of request 
+    - FC 7 - Form
+- Management of funds in the name of person having cancelled certificate
+    - Banking Authority holds it and awaits instruction of CG Instruction
+    - Amount/Asset under Govt authority's custody now
+    - It can dispose asset or use the funds
+        - Provided the funds are not available for running such activity
+    - Subsequently re-registered?
+        - Return back the money or assets
+- **Section 16: Renewal** 🔄
+    - Apply 6 months before expiry (Form FC-3C).
+    - Govt to reply in 90 days acceptance or reasons for delay
+    - Late renewal subject to govt approval after extra fee of 5K rs
+- For above, AADHAR or ID Proof can be asked by GOVT
+
+## 🏦 Accounts & Audit (Sec 17-22)
+- **Designated FCRA Account (Sec 17)** 🏦
+    - **Mandatory**: "FCRA Account" at **SBI, New Delhi Main Branch (NDMB)**.
+    - **Operational Accounts**: Can open other accounts in scheduled banks for *utilization* only.
+    - **Rule**: No mixing with domestic funds!
+    - Banks to give details of inwards or outwards within 48 hours of transaction
+- **Intimation (Sec 18)** 📢
+    - Annual Return: **Form FC-4**.
+    - Due: Within **9 months** of financial year closing (by Dec 31st).
+    - Include: Income & Expenditure, Balance Sheet.
+    - NIL Report: Mandatory even if no funds received.
+    - Preserve for 6 years
+    - Books to be maintained EXCLUSIVELY for this foreign contributions
+    - CA Certification required for these forms
+- **Audit (Sec 20)**
+    - CG can order audit by Gazetted Officer (Group A).
+    - Can enter into premise at any reasonable hour (After sunrise, before sunset for audit)
+    - Info obtained to be confidential 
+- Election candidate intimation 
+    - If within 180 days prior to nomination, received Foreign Contribution
+        - File FC-1
+        - Within 45 days of nomination
+        - Tell the details
+            - What and how much you got
+            - How did you spend it
+- Asset disposal
+    - If entity for which the amt is received is gone,
+        - Dispose it as per law under which entity was registered
+        - if no such law, as per CG notification
+## ⚖️ Adjudication & Penalties
+- **Confiscation (Sec 28-29)**
+    - Court of Session (Any value).
+    - Assistant Sessions Judge (Up to ₹10 Lakhs).
+    - Reasonable opportunity for representation to be given before passing order 
+- **Appeals (Sec 31)**
+    - Confiscation Appeal
+        - Order by Asst. Sessions Judge → **Court of Session**.
+        - Order by Court of Session → **High Court**.
+        - Time limit: Within **1 month** (+1 month condonable).
+    - Refusal of permission
+        - Same process within 60 days of such order
+- Revision of Order (Sec 32)
+    - CG can in own motion or pursuant to application for revision by person,
+        - inquire and make revision orders as it deems fit
+        - Own Motion Order not to revise order made more than 1 year
+        - Application to be made within 1 year of receipt of order - after CG condones it. 
+        - No revision if appeal is open somewhere
+        - Fee of 3000 Rs to Secy, MHA, Delhi
+- **Offences (Sec 33-37)**
+    - **False Intimation/Seeking Permission/Fraudluent Means**: Prison up to 6 months or any fine or both.
+    - Violating Prohibition of amt or goods - up to 3 years jail or fine or both + May impose MV of goods ka penalty
+    - **Assisting Political Party**: Prison up to 5 years or fine or both.
+    - **General Contravention**: Prison up to 1 year.
+    - **Company Offence**: Person in charge + Company liable (unless due diligence proved).
+    - **Making thing unavailable to confescate** - Up to 5X of article value of 1000 Rs whichever is more
+    - Coumpounding
+        - All offences which are imprisonment only can be coumpounded as per notifications
+        - Repeat offenders (Less than 3 years again offend) -> Not Eligible
+## 🧩 Miscellaneous
+- Courts not to cognise the offense untill authorisation of CG - under this Act
+- Investigation and Inspection
+    - Inspecting officer is authorised by this act just like officer of police station for the investigation as per this act
+    - CG has power to exempt any person from provision of this act in public interest
+    - This act does not apply to txns between GOI and other govt (foreign)
+    - FCRA is in addition of other laws (Not in place of other laws)

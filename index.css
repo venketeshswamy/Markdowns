@@ -1,0 +1,824 @@
+/* Design System & Variables */
+:root {
+    /* Fonts */
+    --font-ui: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    --font-mono: 'Fira Code', Menlo, Monaco, Consolas, "Courier New", monospace;
+
+    /* Transition speed */
+    --transition-speed: 0.2s;
+    --sidebar-width: 260px;
+    --activity-bar-width: 50px;
+}
+
+/* Theme variables */
+.theme-dark {
+    --bg-app: #1e1e1e;
+    --sidebar-bg: #252526;
+    --activity-bg: #333333;
+    --activity-active: #ffffff;
+    --activity-inactive: #858585;
+    --activity-hover: #b5b5b5;
+    
+    --editor-bg: #1e1e1e;
+    --border-color: #3c3c3c;
+    
+    --text-main: #cccccc;
+    --text-muted: #858585;
+    --text-heading: #ffffff;
+    
+    --tab-active-bg: #1e1e1e;
+    --tab-inactive-bg: #2d2d2d;
+    --tab-hover-bg: #2b2b2b;
+    --tab-text-active: #ffffff;
+    --tab-text-inactive: #969696;
+    
+    --vscode-accent: #007acc;
+    --vscode-accent-hover: #1f8ad2;
+    --vscode-input-bg: #3c3c3c;
+    --vscode-input-border: #6b6b6b;
+    --vscode-input-focus: #007acc;
+    
+    --welcome-shortcut-bg: #37373d;
+    --welcome-shortcut-border: #454545;
+    
+    --tree-hover-bg: #2a2d2e;
+    --tree-selected-bg: #37373d;
+    
+    --toolbar-bg: rgba(37, 37, 38, 0.85);
+    --toolbar-border: #3c3c3c;
+    --toolbar-btn-hover: #37373d;
+    --dropdown-bg: #252526;
+    --dropdown-hover: #2a2d2e;
+
+    /* Logo colors */
+    --vscode-node1: #e06c75;
+    --vscode-node2: #98c379;
+    --vscode-node3: #61afef;
+    
+    color-scheme: dark;
+}
+
+.theme-light {
+    --bg-app: #ffffff;
+    --sidebar-bg: #f3f3f3;
+    --activity-bg: #2c2c2c; /* VS Code light theme keeps activity bar dark/contrastive */
+    --activity-active: #ffffff;
+    --activity-inactive: #969696;
+    --activity-hover: #e0e0e0;
+    
+    --editor-bg: #ffffff;
+    --border-color: #e4e4e4;
+    
+    --text-main: #333333;
+    --text-muted: #717171;
+    --text-heading: #000000;
+    
+    --tab-active-bg: #ffffff;
+    --tab-inactive-bg: #ececec;
+    --tab-hover-bg: #f3f3f3;
+    --tab-text-active: #333333;
+    --tab-text-inactive: #717171;
+    
+    --vscode-accent: #007acc;
+    --vscode-accent-hover: #1f8ad2;
+    --vscode-input-bg: #ffffff;
+    --vscode-input-border: #cecece;
+    --vscode-input-focus: #0090f1;
+    
+    --welcome-shortcut-bg: #ececec;
+    --welcome-shortcut-border: #dddddd;
+    
+    --tree-hover-bg: #e4e6f1;
+    --tree-selected-bg: #d1d5e3;
+    
+    --toolbar-bg: rgba(243, 243, 243, 0.85);
+    --toolbar-border: #e4e4e4;
+    --toolbar-btn-hover: #ececec;
+    --dropdown-bg: #ffffff;
+    --dropdown-hover: #f3f3f3;
+
+    /* Logo colors */
+    --vscode-node1: #d23f3f;
+    --vscode-node2: #388e3c;
+    --vscode-node3: #1976d2;
+    
+    color-scheme: light;
+}
+
+/* Base Styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body, html {
+    height: 100%;
+    width: 100%;
+    font-family: var(--font-ui);
+    background-color: var(--bg-app);
+    color: var(--text-main);
+    overflow: hidden;
+}
+
+/* App Container Layout */
+.app-container {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+.theme-dark ::-webkit-scrollbar-thumb {
+    background: #4f4f4f;
+    border-radius: 4px;
+}
+.theme-dark ::-webkit-scrollbar-thumb:hover {
+    background: #6b6b6b;
+}
+.theme-light ::-webkit-scrollbar-thumb {
+    background: #c1c1c1;
+    border-radius: 4px;
+}
+.theme-light ::-webkit-scrollbar-thumb:hover {
+    background: #a8a8a8;
+}
+
+/* Mobile Header */
+.mobile-header {
+    display: none; /* Desktop hidden */
+    height: 48px;
+    background-color: var(--sidebar-bg);
+    border-bottom: 1px solid var(--border-color);
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 16px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
+}
+.mobile-title {
+    font-weight: 600;
+    font-size: 15px;
+    color: var(--text-heading);
+}
+.mobile-header button {
+    background: none;
+    border: none;
+    color: var(--text-main);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    border-radius: 4px;
+}
+.mobile-header button:hover {
+    background-color: var(--tree-hover-bg);
+}
+
+/* Sidebar Wrapper */
+.sidebar-wrapper {
+    display: flex;
+    width: calc(var(--activity-bar-width) + var(--sidebar-width));
+    height: 100%;
+    border-right: 1px solid var(--border-color);
+    flex-shrink: 0;
+    z-index: 90;
+    transition: transform var(--transition-speed) ease;
+}
+
+/* VS Code Activity Bar */
+.activity-bar {
+    width: var(--activity-bar-width);
+    height: 100%;
+    background-color: var(--activity-bg);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    flex-shrink: 0;
+}
+.activity-btn {
+    background: none;
+    border: none;
+    color: var(--activity-inactive);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    position: relative;
+    transition: color var(--transition-speed), background-color var(--transition-speed);
+}
+.activity-btn:hover {
+    color: var(--activity-hover);
+}
+.activity-btn.active {
+    color: var(--activity-active);
+}
+.activity-btn.active::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 6px;
+    height: 28px;
+    width: 2px;
+    background-color: var(--vscode-accent);
+}
+.activity-btn svg {
+    width: 24px;
+    height: 24px;
+}
+.activity-btn.hidden {
+    display: none;
+}
+
+/* VS Code Explorer Sidebar Panel */
+.explorer-panel {
+    width: var(--sidebar-width);
+    height: 100%;
+    background-color: var(--sidebar-bg);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.sidebar-header {
+    padding: 12px 16px;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+    color: var(--text-muted);
+}
+.sidebar-header h2 {
+    font-size: 11px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+/* Search bar */
+.search-container {
+    padding: 0 16px 10px 16px;
+    border-bottom: 1px solid var(--border-color);
+}
+.search-input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.search-input-wrapper input {
+    width: 100%;
+    background-color: var(--vscode-input-bg);
+    border: 1px solid var(--vscode-input-border);
+    border-radius: 3px;
+    color: var(--text-main);
+    padding: 6px 26px 6px 8px;
+    font-size: 12px;
+    font-family: var(--font-ui);
+    outline: none;
+    transition: border-color var(--transition-speed);
+}
+.search-input-wrapper input:focus {
+    border-color: var(--vscode-input-focus);
+}
+.search-input-wrapper input::placeholder {
+    color: var(--text-muted);
+    opacity: 0.7;
+}
+#search-clear-btn {
+    position: absolute;
+    right: 8px;
+    background: none;
+    border: none;
+    color: var(--text-muted);
+    cursor: pointer;
+    font-size: 10px;
+    padding: 2px;
+}
+#search-clear-btn:hover {
+    color: var(--text-heading);
+}
+
+/* File Tree View */
+.file-tree-container {
+    flex-grow: 1;
+    overflow-y: auto;
+    padding: 6px 0;
+}
+.file-tree, .file-tree ul {
+    list-style: none;
+}
+.tree-node {
+    display: flex;
+    align-items: center;
+    padding: 6px 16px;
+    font-size: 13px;
+    cursor: pointer;
+    user-select: none;
+    color: var(--text-main);
+    transition: background-color var(--transition-speed);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.tree-node:hover {
+    background-color: var(--tree-hover-bg);
+}
+.tree-node.selected {
+    background-color: var(--tree-selected-bg);
+}
+
+/* Icons in tree */
+.tree-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 6px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.folder-arrow {
+    transition: transform var(--transition-speed) ease;
+}
+.folder-arrow.collapsed {
+    transform: rotate(-90deg);
+}
+.folder-icon {
+    color: var(--text-muted);
+}
+.file-icon {
+    color: var(--vscode-accent);
+}
+.file-tree-container .folder-item > ul {
+    padding-left: 12px;
+}
+.file-tree-container .folder-item > ul.collapsed {
+    display: none;
+}
+
+/* Main Editor Pane */
+.editor-pane {
+    flex-grow: 1;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    position: relative;
+    background-color: var(--editor-bg);
+}
+
+/* Tabs Bar */
+.tabs-bar-container {
+    height: 35px;
+    width: 100%;
+    background-color: var(--sidebar-bg);
+    border-bottom: 1px solid var(--border-color);
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.tabs-bar {
+    display: flex;
+    height: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+}
+.tabs-bar::-webkit-scrollbar {
+    height: 2px;
+}
+.tab {
+    display: inline-flex;
+    align-items: center;
+    height: 100%;
+    padding: 0 16px;
+    background-color: var(--tab-inactive-bg);
+    border-right: 1px solid var(--border-color);
+    color: var(--tab-text-inactive);
+    font-size: 12px;
+    cursor: pointer;
+    user-select: none;
+    max-width: 160px;
+    min-width: 100px;
+    position: relative;
+    transition: background-color var(--transition-speed), color var(--transition-speed);
+}
+.tab:hover {
+    background-color: var(--tab-hover-bg);
+    color: var(--text-main);
+}
+.tab.active {
+    background-color: var(--tab-active-bg);
+    color: var(--tab-text-active);
+    font-weight: 500;
+}
+.tab.active::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: var(--vscode-accent);
+}
+.tab.preview span {
+    font-style: italic;
+}
+.tab-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-right: 8px;
+    flex-grow: 1;
+}
+.tab-close {
+    width: 16px;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    color: var(--text-muted);
+    font-size: 10px;
+    transition: background-color var(--transition-speed), color var(--transition-speed);
+}
+.tab-close:hover {
+    background-color: var(--tree-hover-bg);
+    color: var(--text-heading);
+}
+
+/* Editor Content Area */
+.editor-content {
+    flex-grow: 1;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Welcome Screen */
+.welcome-screen {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--editor-bg);
+    z-index: 10;
+    padding: 24px;
+    overflow-y: auto;
+}
+.welcome-inner {
+    max-width: 550px;
+    width: 100%;
+    text-align: center;
+}
+.logo-animation {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.welcome-logo {
+    width: 80px;
+    height: 80px;
+    filter: drop-shadow(0 4px 12px rgba(0, 122, 204, 0.3));
+    animation: pulse 3s infinite ease-in-out;
+}
+@keyframes pulse {
+    0%, 100% { transform: scale(1); opacity: 0.9; }
+    50% { transform: scale(1.05); opacity: 1; }
+}
+.welcome-screen h1 {
+    font-size: 28px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    color: var(--text-heading);
+}
+.welcome-screen .subtitle {
+    font-size: 14px;
+    color: var(--text-muted);
+    margin-bottom: 30px;
+}
+.welcome-actions {
+    background-color: var(--sidebar-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 30px;
+    text-align: left;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+.action-item {
+    display: flex;
+    margin-bottom: 12px;
+    font-size: 13px;
+}
+.action-item:last-child {
+    margin-bottom: 0;
+}
+.action-key {
+    background-color: var(--welcome-shortcut-bg);
+    border: 1px solid var(--welcome-shortcut-border);
+    border-radius: 4px;
+    padding: 2px 8px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    font-weight: 600;
+    min-width: 100px;
+    text-align: center;
+    margin-right: 12px;
+    flex-shrink: 0;
+    color: var(--text-heading);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.action-desc {
+    color: var(--text-main);
+    display: flex;
+    align-items: center;
+}
+.welcome-recent {
+    text-align: left;
+}
+.welcome-recent h3 {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    color: var(--text-heading);
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 6px;
+}
+.folder-shortcuts {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+    gap: 10px;
+}
+.folder-shortcut-btn {
+    background-color: var(--sidebar-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    font-size: 12px;
+    font-weight: 500;
+    transition: background-color var(--transition-speed), border-color var(--transition-speed), transform 0.1s;
+}
+.folder-shortcut-btn:hover {
+    background-color: var(--tree-hover-bg);
+    border-color: var(--vscode-accent);
+    transform: translateY(-2px);
+}
+.folder-shortcut-btn svg {
+    margin-bottom: 4px;
+    color: var(--vscode-accent);
+}
+
+/* Markmap Container and Canvas styles */
+.markmap-container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.markmap-container.hidden {
+    display: none;
+}
+
+/* SVG Styling overrides */
+#markmap-svg {
+    width: 100%;
+    height: 100%;
+    background-color: var(--editor-bg);
+    transition: background-color var(--transition-speed);
+}
+
+/* Override markmap colors to blend in with dark/light themes */
+#markmap-svg g.markmap-node text {
+    fill: var(--text-main) !important;
+    font-family: var(--font-ui) !important;
+    font-size: 13px !important;
+    font-weight: 500 !important;
+}
+#markmap-svg g.markmap-node circle {
+    stroke-width: 1.5px !important;
+    fill: var(--editor-bg) !important;
+}
+#markmap-svg path.markmap-link {
+    stroke-width: 1.5px !important;
+    opacity: 0.8;
+}
+
+/* Toolbar overlay style */
+.markmap-toolbar {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: var(--toolbar-bg);
+    border: 1px solid var(--toolbar-border);
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    padding: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    z-index: 5;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+.toolbar-brand {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--text-muted);
+    padding: 0 8px;
+    font-family: var(--font-mono);
+}
+.toolbar-divider {
+    width: 1px;
+    height: 20px;
+    background-color: var(--border-color);
+    margin: 0 4px;
+}
+.toolbar-btn {
+    background: none;
+    border: none;
+    color: var(--text-main);
+    width: 28px;
+    height: 28px;
+    border-radius: 4px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color var(--transition-speed), color var(--transition-speed);
+}
+.toolbar-btn:hover {
+    background-color: var(--toolbar-btn-hover);
+    color: var(--text-heading);
+}
+.toolbar-btn svg {
+    width: 18px;
+    height: 18px;
+}
+
+/* Export Dropdown options */
+.export-dropdown-wrapper {
+    position: relative;
+}
+.export-btn {
+    width: auto !important;
+    padding: 0 10px;
+    font-size: 11px;
+    font-weight: 600;
+    gap: 4px;
+}
+.caret-icon {
+    width: 12px !important;
+    height: 12px !important;
+}
+.export-dropdown {
+    position: absolute;
+    bottom: calc(100% + 8px);
+    right: 0;
+    background-color: var(--dropdown-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    box-shadow: 0 4px 16px rgba(0,0,0,0.3);
+    padding: 4px;
+    display: none;
+    flex-direction: column;
+    min-width: 130px;
+    z-index: 100;
+}
+.export-dropdown.show {
+    display: flex;
+}
+.dropdown-item {
+    background: none;
+    border: none;
+    color: var(--text-main);
+    padding: 8px 12px;
+    font-size: 12px;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 100%;
+    transition: background-color var(--transition-speed);
+}
+.dropdown-item:hover {
+    background-color: var(--dropdown-hover);
+    color: var(--text-heading);
+}
+.dropdown-item svg {
+    width: 16px;
+    height: 16px;
+    color: var(--text-muted);
+}
+
+/* Utility / Helpers */
+.hidden {
+    display: none !important;
+}
+.sun-icon {
+    color: #f1c40f;
+}
+
+/* Mobile Sidebar Overlay overlay screen */
+.sidebar-overlay {
+    display: none;
+    position: fixed;
+    top: 48px;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 48px);
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 85;
+}
+
+/* Mobile Responsiveness Rules */
+@media (max-width: 768px) {
+    .mobile-header {
+        display: flex;
+    }
+    
+    .sidebar-wrapper {
+        position: fixed;
+        top: 48px;
+        left: 0;
+        height: calc(100% - 48px);
+        transform: translateX(-100%);
+        z-index: 90;
+    }
+    
+    .editor-pane {
+        padding-top: 48px;
+        width: 100%;
+    }
+    
+    .app-container.sidebar-open .sidebar-wrapper {
+        transform: translateX(0);
+    }
+    
+    .app-container.sidebar-open .sidebar-overlay {
+        display: block;
+    }
+    
+    .welcome-screen {
+        padding: 16px;
+    }
+    
+    .welcome-logo {
+        width: 60px;
+        height: 60px;
+    }
+    
+    .welcome-screen h1 {
+        font-size: 22px;
+    }
+    
+    .welcome-actions {
+        padding: 12px;
+    }
+    
+    .action-key {
+        min-width: 80px;
+        margin-right: 8px;
+        font-size: 10px;
+    }
+    
+    .action-desc {
+        font-size: 11px;
+    }
+    
+    .folder-shortcuts {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .markmap-toolbar {
+        bottom: 12px;
+        right: 12px;
+    }
+    
+    .toolbar-brand {
+        display: none;
+    }
+}

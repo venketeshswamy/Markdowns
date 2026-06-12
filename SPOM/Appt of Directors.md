@@ -1,0 +1,262 @@
+# **Company Director Appointments and Qualifications**
+
+  - **Introduction**
+    - **Board of Directors** (Collective body)
+    - **Director** (Appointed to the Board)
+      - Individuals managing company affairs
+      - Company is an artificial person, needs human management
+      - Can be shareholders or outsiders
+    - **Legal position of Directors**
+      - Agents
+      - Trustees (Fiduciary relationship with company)
+      - Officers
+    - **Collective decision-making** by the Board
+  - **Company to Have Board of Directors (Section 149)**
+    - **Number of Directors**
+      - **Minimum**
+        - Public Company: 3
+        - Private Company: 2
+        - One Person Company (OPC): 1
+      - **Maximum**: 15
+        - Can exceed 15 by Special Resolution
+      - **Exemptions** from maximum limit (Govt. Companies, Section 8 Companies - if not in default)
+    - **Woman Director**
+      - Requirement for prescribed classes 
+        - Listed
+        - Public Companies
+            - PUSC >= 100 Cr
+            - TO >= 300 Cr
+      - Vacancy filling 
+        - (Earliest, but not later than next Board meeting or 3 months, whichever is later)
+    - **Resident Director** (At least one stays 182 days in FY)
+    - **Independent Director (Section 149 & 150)**
+      - Purpose: Enhance corporate governance, prevent detrimental decisions
+      - Type: Non-Executive Director
+      - Liability: Only for knowing consent to wrongful acts
+      - Number Required:
+        - Listed Public: At least 1/3rd of total (rounded up)
+        - Other prescribed Public: At least 2 (based on capital/turnover/loans)
+        - Higher number if Audit Committee requires it
+      - Intermittent Vacancy: Fill earliest, but not later than next Board meeting or 3 months, whichever is later
+      - Cessation of Obligation: If conditions (capital/turnover/loans) not met for 3 consecutive years
+      - Requirement
+        - Listed
+        - Unlisted
+            - PUSC >= 10 Cr
+            - TO >= 100 Cr
+                - Exceptions
+                    - JV
+                    - WOS
+                    - Dormant
+            - Borrowings >= 50 Cr
+      - Eligibility Criteria (Section 149(6)):
+        - Integrity, expertise, experience
+        - Not promoter or related to promoters/directors
+        - No significant pecuniary relationship (exceptions apply)
+        - Neither KMP nor employee (exceptions for relative&apos;s employment)
+        - Not employee/partner of auditors, CS, CMA, or legal/consulting firm with significant transactions
+        - Does not hold significant voting power (2% or more)
+        - Not CEO/Director of non-profit receiving significant funds (25% or more) or holding significant voting power (2% or more)
+        - Possess appropriate skills, experience, knowledge
+      - Declaration of Independence (Section 149(7)): At first meeting, annually, or upon change in circumstances
+      - Code for Independent Directors (Schedule IV): Company and ID must abide
+      - Remuneration (Section 149(9)): Fee, expenses, profit-related commission allowed; **NO stock options**
+      - Tenure (Section 149(10) & (11)):
+        - Term: Up to 5 consecutive years
+        - Re-appointment: Eligible for 2nd term by Special Resolution & Board&apos;s report disclosure
+        - Limit: Maximum 2 consecutive terms
+        - Cooling Period: 3 years after ceasing, cannot be associated in any other capacity
+        - Tenure before Act, 2013 commencement not counted
+      - Not liable to retire by rotation (Section 149(13))
+      - Selection & Data Bank (Section 150)
+        - Data Bank maintained by notified institute
+        - Application for inclusion (Online, annual/5yr/lifetime)
+        - Renewal required (except lifetime fee)
+        - Online proficiency test required within 2 years (exceptions apply)
+        - Due diligence is company&apos;s responsibility
+        - Appointment needs approval in General Meeting (Section 152(2))
+    - **Interested Director** (Required to disclose interest)
+    - **First Director** (Subscribers or individual member in OPC)
+  - **Appointment of Directors (Section 152)**
+    - Subscribers of Memo are deemed to be first directors of the company
+    - **Subsequent Directors**: Appointed by company in General Meeting unless Act provides otherwise
+    - **Other Requirements**:
+      - **Director Identification Number (DIN)** must be allotted (Section 152(3))
+      - Furnish DIN and declaration of no disqualification (Section 152(4))
+      - Written consent to act as Director (Form DIR-2), filed by company (Form DIR-12) (Section 152(5))
+        - Not applicable to
+            - Section 8 Company
+            - Govt company where appointment is done by CG
+      - Security clearance for national of country sharing land border
+      - Explanatory statement for Independent Director appointment
+      - Exemptions from consent requirement (Govt/Section 8 Co. if not in default)
+    - **Retirement of Directors by Rotation (Section 152(6)-(7))**
+      - Purpose: Prevent self-perpetuating management, allow shareholder influence
+      - Applicability: **Public Company or Private Company subsidiary of a Public Company**
+        - Private companies (not subsidiary of public) can appoint permanent directors if articles permit
+      - Rotational Directors: Not less than **two-thirds** of total number of directors (excluding independent and nominee directors)
+      - Directors to retire at AGM: **One-third** of the rotational directors, or the number nearest to one-third
+      - Identification of Retiring Directors: Longest in office, or by agreement/lot if appointed on same day
+      - Filling of vacancy: Company may re-appoint retiring director or appoint another person
+        - Section 160 applies if appointing non-retiring person
+        - Company can resolve *not* to fill vacancy (if minimum directors maintained)
+      - Effect of delayed AGM: Directors liable to retire must vacate office when AGM *ought* to have been held
+      - **Deemed re-appointment** (Section 152(7)):
+        - If vacancy not filled and no resolution not to fill, meeting adjourns
+        - If still not filled at adjourned meeting, retiring director is deemed re-appointed
+        - Exceptions: Resolution for re-appointment lost, unwillingness expressed, disqualified, special resolution required, Section 162 contravened
+      - "Retiring director" for Section 152 means a director retiring by rotation
+      - Exemptions from Section 152(6)-(7): Certain Govt. Companies and their subsidiaries (if not in default)
+  - **Director Identification Number (DIN) (Sections 152(3), 153-159)**
+    - Definition: Identification number for individuals acting as directors
+    - Includes DPIN for LLPs
+    - Mandatory for director appointment (Section 152(3))
+    - Application to Central Government (Form DIR-3, Form INC-32 for max 3 proposed directors)
+    - Allotment within one month
+    - Validity: Lifetime, cannot be allotted to another person
+    - **Prohibition on obtaining more than one DIN** (Section 155)
+    - Director must intimate DIN to company(ies) (Section 156)
+      - Within 30 Days of Receipt of DIN
+    - Company must inform Registrar (Form DIR-3C) (Section 157)
+      - Within 15 Days of receipt of above
+    - Penalties for failure to furnish DIN
+    - Must mention DIN in company filings (Section 158) - Director's DIN shall be in every filings
+    - Cancellation/Deactivation (Rule 11):
+      - Grounds: Duplicated, wrongful/fraudulent means, death, unsound mind, insolvent, surrender (Form DIR-5)
+      - Deactivation for non-filing of DIR-3-KYC
+      - **Cannot be cancelled/deactivated solely for disqualification under Section 164(2)**
+      - Re-activation by filing DIR-3-KYC
+    - Intimation of changes in particulars (Form DIR-6)
+      - Within 30 days of such change
+        - Signed by CA/CS/CMA
+      - Also intimate company within 15 days pf such change 
+  - **Appointment of Persons Other Than Retiring Directors (Section 160)**
+    - Eligibility: Any person not a retiring director
+    - Requirement: Written notice of candidature (by person or member proposing) at least 14 days before meeting
+    - Deposit: &#x20b9;1,00,000 (or higher, &#x20b9;10,000 for Nidhis)
+      - Exceptions: Independent Director, director recommended by Nomination/Remuneration Committee or Board
+    - Company action: Inform members at least 7 days before meeting (electronic or written notice, website)
+    - Refund of Deposit: If appointed or gets > 25% votes
+    - "Retiring director" for Section 160 means director retiring by rotation (as per Section 152(7))
+    - Applies when appointing regular director in place of additional, alternate, nominee, or casual vacancy director, or a new person in place of a director retiring by rotation
+    - Exemptions: Certain Govt. Companies/subsidiaries, Private Companies, Section 8 Companies (if not in default)
+  - **Small Shareholders&apos; Director (Section 151)**
+    - Listed company may appoint one director elected by small shareholders
+    - "Small shareholder": holds shares of nominal value not more than &#x20b9;20,000
+    - Appointment triggered by notice from lower of 1000 small shareholders or 1/10th of total small shareholders
+    - Company can appoint suo moto
+    - Notice requirements (at least 14 days before meeting)
+    - Statement with notice includes DIN, no disqualification declaration, consent
+    - Considered an Independent Director, must meet criteria & give declaration
+    - Subject to Section 152 except: **Not liable to retire by rotation**
+    - Tenure: Maximum **3 consecutive years**, not eligible for re-appointment
+    - Subject to disqualifications (Section 164)
+    - Vacation of office: Incurs disqualifications (Section 164), office vacant (Section 167), ceases to be independent
+    - Maximum directorships: Not more than 2, and second company not competing/conflicting
+    - Cooling period: 3 years after ceasing, cannot be associated in other capacity
+  - **Appointment of Additional Director, Alternate Director, Director to Fill Casual Vacancy, and Nominee Director (Section 161)**
+    - **Additional Director (Section 161(1))**:
+      - Appointed by Board if articles permit
+      - Cannot be a person who failed to get appointed by shareholders in GM
+      - Term: Up to next AGM or last date it should have been held, whichever is earlier
+    - **Alternate Director (Section 161(2))**:
+      - Appointed by Board (if articles or GM resolution permits) for a director absent from India for >= 3 months
+      - Cannot hold alternate directorship for another director in same company
+      - Cannot hold directorship in the same company while being an alternate director
+      - Must be qualified as independent if original director is independent
+      - Term: Not longer than original director&apos;s term, vacates on original&apos;s return
+      - Deemed re-appointment under Section 152(7) applies to original director
+      - Original director cannot appoint alternate director; only Board can
+      - Alternate directorship counts towards Section 165 limits
+      - Has only one vote
+      - Can be appointed for Executive/WTD/MD by the Board
+    - **Nominee Director (Section 161(3))**:
+      - Appointed by Board (subject to articles) nominated by institution (under law/agreement) or Govt (by shareholding)
+      - Represents nominator&apos;s interests
+      - Shareholders cannot interfere with Board&apos;s power
+    - **Casual Vacancy (Section 161(4))**:
+      - Vacancy when director appointed in GM vacates office before normal expiry (not due to retirement)
+      - Filled by Board at a meeting, subsequently approved by members in immediate next GM
+      - Term of appointed director: Holds office only up to date original director would have
+      - Vacancy arising from director appointed to fill casual vacancy is NOT a casual vacancy
+      - Woman/Independent Director casual vacancy has urgency in filling (within next Board meeting or 3 months)
+  - **Appointment of Directors to be Voted Individually (Section 162)**
+    - Prohibits appointing two or more directors by a single resolution to protect shareholder choice
+    - Exception: Single resolution is allowed if a proposal for it is agreed to at the meeting without any vote against it
+    - Resolution in contravention is void
+    - Exemptions: Certain Govt. Companies/subsidiaries, Private Companies (if not in default)
+    - Contravention is a ground for exception to deemed re-appointment under Section 152(7)
+  - **Option to Adopt Proportional Representation (Section 163)**
+    - Purpose: Allows minority shareholders proportionate representation
+    - Overrides other provisions
+    - Articles must provide for it
+    - Applies to not less than **two-thirds** of total directors
+    - Methods: Single transferable vote, cumulative voting, or other transparent/effective method ensuring minority representation
+    - Appointments made once every 3 years
+    - Casual vacancies filled as per Section 161(4)
+    - Exemptions: Certain Govt. Companies/subsidiaries (if not in default)
+  - **Disqualifications for Appointment of Director (Section 164)**
+    - No specific professional/educational qualifications mandated by law
+    - Grounds for disqualification (Section 164(1)): Unsound mind, insolvent, convicted (imprisonment >= 6 months (5 years disqualified) /7 years (LIFELONG DISQUALIFIED)), court/Tribunal order, failure to pay calls, convicted for Section 188 transactions, non-compliance with DIN (Section 152(3)) or Maximum Directorships (Section 165(1))
+    - Grounds based on company defaults (Section 164(2)):
+      - Company failed to file financial statements/annual returns for 3 continuous years
+      - Company failed to repay deposits/interest, redeem debentures/interest, pay dividend for >= 1 year
+      - Disqualified for 5 years from date of default (except in the defaulting company itself)
+      - New director in defaulting company not disqualified for first 6 months
+    - Disqualification under 164(2) leads to office vacation in *other* companies (Section 167(1)(a) proviso)
+    - Exemptions from Section 164(2): Govt. Companies (if not in default)
+    - Private companies can add additional disqualifications in articles
+    - Appeal/petition doesn&apos;t remove 164(1)(d),(e),(g) disqualifications
+    - Conviction under Section 217 (Investigation) also disqualifies
+  - **Maximum Number of Directorships (Section 165)**
+    - Limit: Max **20** companies
+    - Sub-limit: Max **10** public companies
+    - Includes: Alternate directorships, directorships in private companies that are holding or subsidiary of a public company (counted in public limit)
+    - Excludes: Directorship in dormant company, directorship in Section 8 company (if not in default)
+    - Members can specify a lesser number by special resolution
+    - Transition period provided for existing directors exceeding limit
+    - Punishment for contravention: Penalty
+  - **Duties of Directors (Section 166)**
+    - Primary duty: Act honestly, diligently, in best interest of company/stakeholders
+    - Statutory duties (Section 166): Act according to articles, in good faith (promote objects, benefit stakeholders including community/environment), with care/skill/diligence/independent judgment, avoid conflict of interest, not achieve undue gain, **not assign office**
+    - Punishment for contravention of Section 166
+    - Other duties: File documents (Registrar, others), convene General Meetings (AGM, EGMs), attend Board Meetings (min 4/year, max 120 days gap), disclose interest (Section 184), approve financial statements and Board Report, appoint first auditors
+  - **Vacation of Office (Section 167)**
+    - Office becomes vacant if director: incurs disqualifications (Section 164), absent from all Board meetings for 12 months, contravenes/fails to disclose interest (Section 184), disqualified by court/Tribunal, convicted (>= 6 months imprisonment)
+    - Exceptions: Grace period for conviction/order if appeal filed
+    - Punishment for functioning after office vacant
+    - If all directors vacate, promoter or Central Government appoints directors until company appoints in GM
+  - **Resignation of Director (Section 168)**
+    - Director gives written notice to company
+    - Company intimates Registrar (Form DIR-12)
+    - Director may forward copy to Registrar (Form DIR-11) with reasons
+    - Effective date: Date notice received OR date specified in notice, whichever is later
+    - Liability continues for offences during tenure
+    - If all directors resign, promoter or Central Government appoints directors until company appoints in GM
+    - Clarification for en masse resignation needing Form DIR-12 filing
+  - **Removal of Director (Section 169)**
+    - By Company: Generally by Ordinary Resolution
+      - Exceptions: Director appointed by Tribunal, or directors appointed by proportional representation (Section 163)
+    - By Company: By Special Resolution for re-appointed independent director
+    - Right to be heard must be given
+    - Requires Special Notice (Section 115)
+    - Director has right to make representation to be circulated/read out
+      - Representation can be excluded if Tribunal deems it abuse for defamation
+    - Vacancy filling: Can be filled at same meeting (with special notice) or as a casual vacancy
+      - Removed director cannot be reappointed
+    - New director&apos;s term: Holds office for remaining period of removed director
+    - Removal doesn&apos;t affect compensation rights for premature termination
+    - Section 169 doesn&apos;t restrict other removal powers
+    - By the Tribunal (Section 242): For oppression/mismanagement
+      - Removed director not entitled to compensation, cannot be appointed for 5 years without Tribunal leave
+  - **Register of Directors and Key Managerial Personnel (Section 170)**
+    - Company must maintain at registered office
+    - Includes prescribed particulars (personal details, appointments, cessation, other offices, professional memberships, PAN (for KMP without DIN), details of securities held)
+    - Company files return (Form DIR-12) with Registrar within 30 days of appointment/change
+    - Exemption: Govt. Companies (if not in default)
+  - **Members&apos; Right to Inspect (Section 171)**
+    - Register of Directors/KMP open for inspection
+    - Timing: During business hours and at every AGM
+    - Right to extracts/copies (free within 30 days)
+    - Registrar can order inspection/supply if refused
+    - Exemption: Govt. Companies (if not in default)

@@ -1,0 +1,116 @@
+# 🇮🇳 Securities Laws (SEBI Act + Regulations)
+
+## 🏛️ SEBI Act, 1992
+
+### Board Composition (Sec 4) 🎓
+- **Formula:** 1 + 2 + 1 + 5 = 9 Members
+- **Chairman** (Appointed by CG)
+- **2 Members** (Ministry of Finance officials)
+- **1 Member** (RBI official)
+- **5 Members** (Appointed by CG)
+  - *Must include at least 3 Whole Time Members (WTM)*
+- **Tenure:** Max 5 years, eligible for re-appointment. Max age 65.
+- **Termination:** 3 months notice or salary in lieu (by CG or Member).
+
+### Powers & Functions (Sec 11)
+- **3 Core Duties:**
+  1. Protect Interests (Investors)
+  2. Promote Development (Market)
+  3. Regulate Business (Intermediaries)
+- **Civil Court Powers:** Discovery of books, Summoning, Inspection.
+- **Enforcement:**
+  - Suspend trading 🚫
+  - Impound proceeds 💰
+  - Attach accounts (Max 90 days, needs Spl Court confirmation) ⏳
+  - Cecase & Desist orders (Sec 11D)
+
+### ⚠️ Penalties (Sec 15A - 15HB)
+| Section | Default | Penalty Amt (🎓 Shortcut) |
+|:---:|---|---|
+| **15A** | Return/Info/Books | 1L/Day $\rightarrow$ Max 1 Cr |
+| **15B** | Broker-Client Agmt | 1L/Day $\rightarrow$ Max 1 Cr |
+| **15C** | Investor Grievance | 1L/Day $\rightarrow$ Max 1 Cr |
+| **15G** | **Insider Trading** | Min 10L $\rightarrow$ Max 25 Cr **OR** 3x Profit |
+| **15H** | **Takeover Discl.** | Min 10L $\rightarrow$ Max 25 Cr **OR** 3x Profit |
+| **15HA**| Fraud/Unfair Trade | Min 5L $\rightarrow$ Max 25 Cr **OR** 3x Profit |
+| **15HB**| Residual (Others) | Min 1L $\rightarrow$ Max 1 Cr |
+
+### ⚖️ SAT (Securities Appellate Tribunal)
+- **Composition:** Presiding Officer + Judicial Member + Tech Member.
+- **Appeal Time:** Within **45 Days** of SEBI Order ⏳.
+- **Further Appeal:** To Supreme Court (Only on Law Qs) within **60 Days** ⏳.
+
+## 📋 SEBI (LODR) Regulations, 2015
+
+### Common Obligations
+- **Key Personnel:** Qualified CS as Compliance Officer 🎓.
+- **Share Transfer:** Appoint Agent (RTA) or In-house facility.
+- **Grievance:** File report with Stock Exch (SE) within **21 days** of quarter end.
+
+### 🏢 Board & Committees (Comparison)
+| Feature | Audit Comm (Reg 18) | NRC (Reg 19) | SRC (Reg 20) | RMC (Reg 21) |
+|---|---|---|---|---|
+| **Min Members** | 3 Directors | 3 Directors | 3 Directors | 3 Members (Maj. BOD) |
+| **Composition** | 2/3rd Indep. | All NED, 2/3rd Indep. | At least 1 Indep. | Maj. BOD + 1 Indep. |
+| **Chairperson** | Indep. Director | Indep. Director | NED | BOD Member |
+| **Meetings** | 4/Year (Gap 120d) | 1/Year | 1/Year | 2/Year |
+| **Quorum** | 2 or 1/3rd (Min 2 Indep) | 2 or 1/3rd (Min 1 Indep) | - | 2 or 1/3rd (Min 1 BOD) |
+
+### Other Corporate Governance
+- **Independent Directors:** Min 1/3rd (if Chair is Non-Exec) OR 1/2 (if Chair is Exec/Promoter).
+- **Woman Director:** At least 1 (Top 500/1000 need Indep Woman Dir).
+- **Subsidiary (Reg 24):** Material if Income/Net Worth > 10% of Consol.
+  - *Restriction:* Cannot sell >50% shares without Spl Resolution.
+
+## 🚀 SEBI (ICDR) Regulations, 2018
+
+### 📊 IPO Eligibility (Reg 6) - "3-15-1-50 Rule" 🎓
+1. **Net Tangible Assets:** $\ge$ 3 Cr (Max 50% monetary).
+2. **Op. Profit:** $\ge$ 15 Cr (Avg last 3 yrs).
+3. **Net Worth:** $\ge$ 1 Cr (Last 3 yrs).
+4. **Name Change:** If yes, 50% revenue from new activity.
+- *If failing above:* Book Building Mandatory + 75% to QIBs.
+
+### Promoters' Contribution (Reg 14)
+- **Minimum:** 20% of Post-Issue Capital.
+- **Lock-in:**
+  - 20% Contribution: **18 Months** ⏳ (3 Years if Capex majority).
+  - Excess over 20%: **6 Months** ⏳ (1 Year if Capex majority).
+
+### Pricing & Allocation
+- **Book Building:**
+  - **QIB:** Min 75% (if Alt route) / Max 50% (Normal).
+  - **Retail:** Min 35% (Normal) / Max 10% (Alt route).
+  - **NII (HNI):** 15%.
+- **Price Band:** Cap price $\le$ 120% of Floor Price.
+
+## 🤝 SEBI (SAST / Takeover) Regs, 2011
+
+### 🚦 Trigger Points (Open Offer)
+- **Initial Trigger:** Acquirer + PAC acquiring shares/voting rights $\ge$ **25%**.
+- **Creeping Acquisition:** Already holding $\ge$ 25% but $<$ 75%.
+  - *Trigger:* Acquiring **> 5%** in a Financial Year.
+- **Control:** Acquisition of "Control" irrespective of shareholding.
+
+### Open Offer Details
+- **Offer Size:** At least **26%** of total shares.
+- **Escrow Acct:**
+  - First 500 Cr $\rightarrow$ 25% Cash margin.
+  - Balance $\rightarrow$ 10% Cash margin.
+
+## 🕵️‍♂️ SEBI (PIT / Insider Trading) Regs, 2015
+
+### 🔑 Key Definitions
+- **UPSI:** Unpublished Price Sensitive Info (Financials, Dividends, Mergers).
+- **Connected Person:** Associated 6 months prior, Directors, Employees.
+- **Insider:** Connected Person OR Someone involved having UPSI access.
+
+### 🚫 Restrictions
+- **Communication:** Don't share UPSI (Except: Legitimate Purpose like Audit/Due Diligence).
+- **Trading:** Don't trade while in possession of UPSI.
+
+### Disclosures (Reg 7)
+- **Initial:** Promoter/KMP/Director $\rightarrow$ Disclose holding within 7 days of appt.
+- **Continual:** If transaction > **₹10 Lakhs** in a quarter.
+  - Insider $\rightarrow$ Co: 2 Trading Days.
+  - Co $\rightarrow$ Stock Exch: 2 Trading Days.

@@ -1,0 +1,358 @@
+# Strategic Cost & Performance Management (SPOM Set B)
+
+## Part A: Strategic Cost Management
+
+### Chapter 1: Introduction to Strategic Cost Management
+- **Traditional vs. Strategic Cost Management**
+    - **Traditional**
+        - Focus: Cost Control/Reduction
+        - Perspective: Internal
+        - Approach: Reactive/Risk Averse
+        - Analysis: Short-term
+    - **Strategic (SCM)**
+        - Focus: Value Creation/Competitive Advantage
+        - Perspective: External & Internal
+        - Approach: Proactive
+        - Analysis: Long-term/Sustainable
+- **Pillars of SCM**
+    - **Strategic Positioning Analysis**
+        - *Def:* Relative position within industry
+        - Tools: SWOT, PESTEL
+        - **Osterwalder's Business Model Canvas**
+            - 9 Building Blocks: Customer Segments, Value Propositions, Channels, Customer Relationships, Revenue Streams, Key Resources, Key Activities, Key Partners, Cost Structure
+        - **Value Proposition Canvas**
+            - Customer Profile: Jobs, Pains, Gains
+            - Value Map: Products/Services, Pain Relievers, Gain Creators
+            - *Fit:* When Value Map meets Customer Profile
+    - **Cost Driver Analysis**
+        - Structural Drivers: Scale, Scope, Experience, Technology, Complexity
+        - Executional Drivers: Work force involvement, TQM, Capacity utilization, Plant layout
+    - **Value Chain Analysis (Porter)**
+        - **Primary Activities**
+            - Inbound Logistics: Receiving, storing inputs
+            - Operations: Transformation to final product
+            - Outbound Logistics: Warehousing, distribution
+            - Marketing & Sales: 4Ps, 4Cs
+            - Service: Installation, repair
+        - **Support Activities**
+            - Firm Infrastructure: General management, finance
+            - HR Management: Recruiting, training
+            - Technology Development: R&D, process automation
+            - Procurement: Purchasing inputs (not just raw materials)
+        - **Value Shop Model**
+            - *Context:* Service providers/Problem solving
+            - Activities: Problem finding, Problem solving, Choice, Execution, Control/Evaluation
+- **External Environment**
+    - **Porter's Five Forces (Industry Profitability)**
+        - 1. Threat of New Entrants (Barriers to entry)
+        - 2. Bargaining Power of Suppliers
+        - 3. Bargaining Power of Buyers
+        - 4. Threat of Substitutes
+        - 5. Rivalry among Existing Firms
+    - **Competitive Advantage**
+        - Cost Leadership (Low cost)
+        - Differentiation (Unique value)
+- **Role of Management Accountant**
+    - Leader/Partner in strategy
+    - Ethics, Communication, Decision Making
+
+### Chapter 2: Modern Business Environment
+- **Cost of Quality (COQ)**
+    - **Cost of Conformance (Good Costs)**
+        - Prevention Costs: Quality engineering, training, design reviews
+        - Appraisal Costs: Inspection, testing, quality audits
+    - **Cost of Non-Conformance (Bad Costs)**
+        - Internal Failure: Scrap, rework, downtime (before delivery)
+        - External Failure: Warranty, recalls, lost sales (after delivery)
+    - *View:* Modern view aims for Zero Defects (Quality is Free - Crosby)
+- **Total Quality Management (TQM)**
+    - *Def:* Continuous improvement involving all employees
+    - **6 Cs:** Commitment, Culture, Continuous Improvement, Co-operation, Customer Focus, Control
+    - **Deming’s 14 Points:** Cease dependence on inspection, drive out fear, remove barriers, etc.
+    - **PDCA Cycle:** Plan, Do, Check, Act
+- **Supply Chain Management (SCM)**
+    - **Push vs. Pull Models**
+        - Push: Make to stock (Forecast based)
+        - Pull: Make to order (Demand based)
+    - **Upstream vs. Downstream**
+        - Upstream: Supplier relationship (E-Sourcing)
+        - Downstream: Customer relationship, Distribution
+    - **Service Level Agreements (SLA):** Contractual performance standards
+- **Gain Sharing Arrangements**
+    - Sharing cost savings/benefits between supplier and customer
+- **Business Structuring**
+    - **Outsourcing:** Transferring non-core activities (Third party)
+    - **Offshoring:** Relocating processes to another country (Cost advantage)
+    - **Shared Services:** Centralizing support functions
+
+### Chapter 3: Lean System and Innovation
+- **Lean System**
+    - *Goal:* Waste minimization, Maximize customer value
+    - **Seven Wastes (TIMWOOD):** Transportation, Inventory, Motion, Waiting, Overproduction, Over-processing, Defects
+- **Just-in-Time (JIT)**
+    - **JIT Purchasing:** Delivery immediately before use
+    - **JIT Production:** Produce only when needed (Pull system)
+    - **Backflushing:** Accounting entry delayed until goods finished/sold
+        - *Issue:* Requires accurate production reporting
+    - **Prerequisites:** Reliable suppliers, Zero defects, Low setup times
+- **Kaizen Costing**
+    - *Focus:* Continuous, small, incremental improvements
+    - *Phase:* Manufacturing stage (Cost reduction) vs. Standard Costing (Cost control)
+- **5S Methodology**
+    - 1. Seiri (Sort)
+    - 2. Seiton (Set in Order)
+    - 3. Seiso (Shine)
+    - 4. Seiketsu (Standardize)
+    - 5. Shitsuke (Sustain)
+- **Total Productive Maintenance (TPM)**
+    - *Goal:* Zero Breakdowns, Zero Defects, Zero Accidents
+    - **OEE (Overall Equipment Effectiveness) Calculation**
+        - Availability Rate = (Operating Time / Planned Production Time)
+        - Performance Rate = (Ideal Cycle Time × Total Output) / Operating Time
+        - Quality Rate = (Good Output / Total Output)
+        - **OEE = Availability × Performance × Quality**
+    - *World Class OEE:* >85%
+- **Cellular Manufacturing**
+    - One-piece flow
+    - U-shaped cells
+    - *Clustering Methods:* Rank Order Clustering
+- **Six Sigma**
+    - *Goal:* 3.4 defects per million opportunities (99.99966% accuracy)
+    - **DMAIC:** Define, Measure, Analyze, Improve, Control (Existing processes)
+    - **DMADV:** Define, Measure, Analyze, Design, Verify (New processes)
+- **Process Innovation**
+    - Radical change/Business Process Re-engineering (BPR)
+
+### Chapter 4: Specialist Cost Management Techniques
+- **Target Costing**
+    - *Formula:* Target Cost = Target Price - Target Profit
+    - *Focus:* Design and Development stage
+    - *Process:* Market driven price -> Required Profit -> Allowable Cost -> Value Engineering to close gap
+- **Value Analysis/Value Engineering**
+    - Value Analysis: Existing products
+    - Value Engineering: New products
+    - *Goal:* Reduce cost without reducing utility/function
+- **Life Cycle Costing**
+    - *Concept:* Cradle-to-grave cost accumulation
+    - **Phases:**
+        - Introduction: High costs, low revenue
+        - Growth: Increasing revenue
+        - Maturity: Peak sales, stable costs
+        - Decline: Falling sales, exit strategy
+    - *Significance:* 80-90% costs committed at design phase
+- **Theory of Constraints (TOC)**
+    - *Focus:* Bottleneck management
+    - **Throughput Accounting Ratios**
+        - Return per factory hour = (Sales - Material Cost) / Time on bottleneck
+        - Cost per factory hour = Total Factory Cost / Time on bottleneck
+        - **TA Ratio** = Return per factory hour / Cost per factory hour
+        - *Decision:* TA Ratio > 1 is profitable
+- **Environmental Management Accounting (EMA)**
+    - **Cost Classifications**
+        - Hansen & Mendoza: Prevention, Appraisal, Internal Failure, External Failure
+        - US EPA: Conventional, Potentially Hidden, Contingent, Image & Relationship
+    - **Techniques**
+        - Input-Output Analysis
+        - Flow Cost Accounting
+        - Life Cycle Costing
+        - Activity Based Costing
+
+### Chapter 5: Emerging Business Models
+- **Change Drivers**
+    - Digital Technologies, Hyper-competition, Sustainability
+- **Digital Technologies**
+    - IoT, AI, Robotics, Blockchain, Cloud Computing, Big Data
+- **Business Models**
+    - **Hyper-disruptive Models**
+        - Freemium: Basic free, pay for premium
+        - Subscription: Recurring revenue (Netflix)
+        - On-Demand: Immediate access (Uber)
+        - Aggregator/Platform: Connect buyers/sellers (Amazon)
+    - **Sustainability Models**
+        - Circular Economy: Closed loop
+        - Sharing Economy: Access over ownership
+- **Start-ups vs Incumbents**
+    - Start-up: Search for business model, Agile, Risk-taking
+    - Incumbent: Execute business model, Hierarchical, Risk-averse
+- **Intrapreneurship**
+    - Entrepreneurship within existing organization
+- **Strategic Responses**
+    - Build, Buy, Partner, Invest, Incubate
+
+### Chapter 6: Strategic Revenue Management
+- **CVP Analysis**
+    - Activity Based CVP
+    - CVP in Service/NPO
+- **Relevant Costing (Short-term Decisions)**
+    - Make vs. Buy (Outsourcing)
+    - Shut down/Continue
+    - Special Orders
+    - *Decision Rule:* Compare Incremental Revenue vs. Incremental Cost + Opportunity Cost
+- **Pricing Decisions**
+    - **Factors:** Internal (Cost, Strategy) vs. External (Demand, Competition)
+    - **Price Sensitivity:** 9 Factors (Unique Value, Shared Cost, Sunk Investment etc.)
+- **Pricing Strategies**
+    - **Cost-Based:** Cost Plus, Target Return
+    - **Market-Based:** Going Rate, Sealed Bid
+    - **Value-Based:** True Economic Value (TEV), Perceived Value
+    - **New Products:**
+        - **Skimming:** High initial price (Inelastic demand, high tech)
+        - **Penetration:** Low initial price (Elastic demand, economies of scale)
+    - **Other Strategies:**
+        - Price Discrimination (Different prices for same product)
+        - Peak Load Pricing (Different prices based on demand time)
+        - Loss Leader (Below cost to attract traffic)
+        - Bundling
+        - Psychological Pricing (99, 999)
+- **Kano’s Performance Attributes**
+    - Threshold Attributes (Must-be)
+    - Performance Attributes (One-dimensional)
+    - Excitement Attributes (Delighters)
+
+### Chapter 7: Strategic Profit Management
+- **Strategic Profitability Analysis**
+    - **Growth Component:** Effect of change in quantity sold
+    - **Price Recovery Component:** Effect of price changes (Input & Output)
+    - **Productivity Component:** Effect of efficiency/input usage
+- **Activity Based Costing (ABC)**
+    - *Hierarchy:* Unit level, Batch level, Product sustaining, Facility sustaining
+    - *Focus:* Accurate product costing
+- **Activity Based Management (ABM)**
+    - *Focus:* Cost reduction and process improvement using ABC data
+    - Operational ABM: Doing things right (Efficiency)
+    - Strategic ABM: Doing the right things (Profitability analysis)
+- **Direct Product Profitability (DPP)**
+    - *Sector:* Retail
+    - *Calculation:* Gross Margin - Direct Product Costs (Transport, Warehouse, Store)
+- **Customer Profitability Analysis (CPA)**
+    - *Concept:* Some customers destroy value
+    - *Whale Curve:* 20% customers generate 200% profit (cumulative)
+- **Pareto Analysis**
+    - 80:20 Rule
+    - Applications: Customer profitability, Inventory control, Quality control
+
+## Part B: Strategic Performance Management
+
+### Chapter 8: Intro to Strategic Performance Management
+- **Performance Management & Strategy Linkage**
+    - Strategy definition (Porter/Drucker)
+- **Models for Business Integration**
+    - **Value Chain (Porter)**
+        - Linkage between primary and support activities
+        - *Goal:* Margin optimization
+    - **McKinsey’s 7S Framework**
+        - **Hard S:** Strategy, Structure, Systems
+        - **Soft S:** Shared Values, Style, Staff, Skills
+        - *Goal:* Alignment for effectiveness
+- **Organizational Structure**
+    - Functional, Divisional, Matrix, Network
+- **Corporate Failure**
+    - **Quantitative Models**
+        - **Altman Z-Score (1968)**
+            - Manufacturing: Z = 1.2X1 + 1.4X2 + 3.3X3 + 0.6X4 + 1.0X5
+            - X1: Working Capital/Total Assets
+            - X2: Retained Earnings/Total Assets
+            - X3: EBIT/Total Assets
+            - X4: Market Value Equity/Book Value Liabilities
+            - X5: Sales/Total Assets
+            - *Zones:* >2.99 Safe, 1.81-2.99 Grey, <1.81 Distress
+    - **Qualitative Models**
+        - **Argenti’s A Score**
+            - Defects -> Mistakes -> Symptoms
+            - Pass Mark: < 25 indicates healthy
+
+### Chapter 9: Performance Measures in Private Sector
+- **Financial Measures**
+    - **ROI (Return on Investment)**
+        - Profit / Capital Employed
+        - *Issue:* Short-termism, under-investment
+    - **RI (Residual Income)**
+        - Profit - (Capital Employed × Cost of Capital)
+        - *Benefit:* Aligns with shareholder wealth, absolute measure
+    - **EVA (Economic Value Added)**
+        - NOPAT - (WACC × Capital Employed)
+        - *Adjustments:* Capitalize R&D/Training, Add back non-cash expenses to profit
+- **Non-Financial Measures**
+    - **Balanced Scorecard (Kaplan & Norton)**
+        - 4 Perspectives: Financial, Customer, Internal Business Process, Learning & Growth
+        - *Goal:* Translate strategy into action
+    - **Performance Pyramid (Lynch & Cross)**
+        - Hierarchy linking corporate vision to operational measures
+        - Levels: Corporate, Business Unit, Operating System, Department
+    - **Building Block Model (Fitzgerald & Moon)**
+        - *Context:* Service Industry
+        - **Dimensions:** Quality, Flexibility, Innovation, Resource Utilization, Financial, Competitive
+        - **Standards:** Ownership, Achievability, Equity
+        - **Rewards:** Clarity, Motivation, Controllability
+    - **Performance Prism**
+        - 5 Facets: Stakeholder Satisfaction, Strategies, Processes, Capabilities, Stakeholder Contribution
+
+### Chapter 10: Performance Measures in NPOs
+- **The "3 Es" (Value for Money)**
+    - **Economy:** Buying inputs at best price (Input)
+    - **Efficiency:** Output per unit of input (Process)
+    - **Effectiveness:** Achieving objectives/outcomes (Output)
+- **Adapted Balanced Scorecard**
+    - Mission is top priority, not Finance
+    - "Customer" becomes "Constituents"
+- **Challenges**
+    - Quantifying outputs
+    - Multiple objectives
+    - Political interference
+
+### Chapter 11: Performance Reports
+- **Role**
+    - Feedback loop
+    - Variance reporting
+- **Types**
+    - Descriptive vs. Analytical
+    - Operational vs. Strategic
+- **External Reporting Frameworks**
+    - **Triple Bottom Line (TBL):** People (Social), Planet (Environmental), Profit (Economic)
+    - **Integrated Reporting <IR>:** 6 Capitals (Financial, Manufactured, Intellectual, Human, Social, Natural)
+
+### Chapter 12: Divisional Transfer Pricing
+- **Objectives**
+    - Goal Congruence
+    - Performance Evaluation
+    - Autonomy
+- **Methods**
+    - **Market Based:** Optimal if perfectly competitive market exists
+    - **Cost Based:**
+        - Marginal Cost (Variable Cost)
+        - Full Cost
+        - Cost Plus
+    - **Negotiated:** Agreed between divisions
+- **Optimal Decision Rule (General Formula)**
+    - Minimum Transfer Price (Seller) = Marginal Cost + Opportunity Cost
+    - Maximum Transfer Price (Buyer) = Lower of (Net Marginal Revenue OR External Market Price)
+- **Resolving Conflicts**
+    - **Dual Rate Pricing:** Seller credits at market price/cost plus; Buyer debits at marginal cost
+    - **Two-Part Tariff:** Marginal Cost (transfer price) + Fixed Lump Sum fee
+
+### Chapter 13: Standard Costing
+- **Advanced Variances**
+    - **Planning & Operational**
+        - *Planning Variance:* (Original Standard - Revised Standard) × Actual Volume
+        - *Operational Variance:* (Revised Standard - Actual) × Actual Volume
+        - *Reason:* Distinguish bad planning from bad execution
+    - **Relevant Cost Approach**
+        - Incorporate opportunity cost (lost contribution) in variance calculation if resources are scarce
+    - **Learning Curve Impact**
+        - Adjust labour standard hours based on learning curve formula ($Y = ax^b$)
+    - **Activity Based Variances**
+        - Variances based on Cost Drivers (e.g., Setup expenditure/efficiency variance)
+- **Investigation of Variances**
+    - Management by Exception
+    - Statistical Control Charts
+
+## Part C: Case Study
+### Chapter 14: Case Study
+- **Approach**
+    - Identify Issues -> Analyze (Models) -> Recommend
+- **Linking Models to Cases**
+    - *Competition analysis:* Porter's 5 Forces
+    - *Internal analysis:* SWOT, Value Chain
+    - *Performance issues:* Balanced Scorecard, Performance Prism
+    - *Pricing issues:* Lifecycle costing, Target costing
+    - *Ethics:* TBL, Corporate Social Responsibility

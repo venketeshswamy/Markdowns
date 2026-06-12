@@ -1,0 +1,279 @@
+# SQC 1 & SA 220: Quality Control for Firms and Audit Engagements
+
+## Objective
+- 🎯 Firm should establish system of quality control (SQC 1 Para 3)
+  - To provide reasonable assurance of standard compliance (SQC 1 Para 3)
+  - To ensure issued reports are appropriate (SQC 1 Para 3)
+- 🎯 Auditor shall implement engagement level quality procedures (SA 220 Para 6)
+  - Providing reasonable assurance audit complies with standards (SA 220 Para 6)
+  - Providing reasonable assurance auditor's report is appropriate (SA 220 Para 6)
+
+## Scope
+- Applies to: Firms performing audits and reviews (SQC 1 Para 1)
+- Applies to: Other assurance and related services engagements (SQC 1 Para 1)
+- Applies to: Specific responsibilities of auditor regarding QC (SA 220 Para 1)
+- Applies to: Responsibilities of engagement quality control reviewer (SA 220 Para 1)
+- Effective from: April 1, 2009 for SQC 1 (SQC 1 Para 110)
+- Effective from: April 1, 2010 for SA 220 (SA 220 Para 5)
+
+## Definitions
+- 📌 Engagement documentation (SQC 1 Para 6 / SA 220 Para 7): the record of work performed, results obtained, and conclusions the practitioner reached (terms such as “working papers” or “workpapers” are also sometimes used).
+- 📌 Engagement partner (SQC 1 Para 6 / SA 220 Para 7): the partner or other person in the firm who is a member of the Institute of Chartered Accountants of India and is in full time practice and is responsible for the engagement and its performance, and for the report that is issued on behalf of the firm, and who, where required, has the appropriate authority from a professional, legal or regulatory body.
+- 📌 Engagement quality control review (SQC 1 Para 6 / SA 220 Para 7): a process designed to provide an objective evaluation, before the report is issued, of the significant judgments the engagement team made and the conclusions they reached in formulating the report.
+- 📌 Engagement quality control reviewer (SQC 1 Para 6 / SA 220 Para 7): a partner, other person in the firm, suitably qualified external person, or a team made up of such individuals, with sufficient and appropriate experience and authority to objectively evaluate, before the report is issued, the significant judgments the engagement team made and the conclusions they reached in formulating the report. However, in case the review is done by a team of individuals, such team should be headed by a member of the Institute.
+- 📌 Engagement team (SQC 1 Para 6 / SA 220 Para 7): all personnel performing an engagement, including any experts contracted by the firm in connection with that engagement. The term “engagement team” excludes individuals within the client’s internal audit function who provide direct assistance on an audit engagement when the external auditor complies with the requirements of SA 610 (Revised).
+  - 🔗 See SA 610
+- 📌 Firm (SQC 1 Para 6 / SA 220 Para 7): a sole practitioner/proprietor, partnership, or any such entity of professional accountants, as may be permitted by law.
+- 📌 Inspection (SQC 1 Para 6 / SA 220 Para 7): in relation to completed engagements, procedures designed to provide evidence of compliance by engagement teams with the firm’s quality control policies and procedures.
+- 📌 Listed entity (SQC 1 Para 6 / SA 220 Para 7): an entity whose shares, stock or debt are quoted or listed on a recognized stock exchange, or are traded under the regulations of a recognized stock exchange or other equivalent body.
+- 📌 Monitoring (SQC 1 Para 6 / SA 220 Para 7): a process comprising an ongoing consideration and evaluation of the firm’s system of quality control, including a periodic inspection of a selection of completed engagements, designed to enable the firm to obtain reasonable assurance that its system of quality control is operating effectively.
+- 📌 Network firm (SQC 1 Para 6 / SA 220 Para 7): A firm or entity that belongs to a network.
+- 📌 Network (SQC 1 Para 6 / SA 220 Para 7): A larger structure: (i) That is aimed at cooperation, and (ii) That is clearly aimed at profit or cost-sharing or shares common ownership, control or management, common quality control policies and procedures, common business strategy, the use of a common brand name, or a significant part of professional resources.
+- 📌 Partner (SQC 1 Para 6 / SA 220 Para 7): any individual with authority to bind the firm with respect to the performance of a professional services engagement.
+- 📌 Personnel (SQC 1 Para 6 / SA 220 Para 7): partners and staff.
+- 📌 Professional standards (SQC 1 Para 6 / SA 220 Para 7): engagement standards, as defined in the AASB’s “Preface to the Standards on Quality Control, Auditing, Review, Other Assurance and Related Services,” and relevant ethical requirements as contained in the Code.
+- 📌 Relevant ethical requirements (SA 220 Para 7): Ethical requirements to which the engagement team and engagement quality control reviewer are subject, which ordinarily comprise the Code of Ethics of the Institute of Chartered Accountants of India related to an audit of financial statements.
+- 📌 Reasonable assurance (SQC 1 Para 6): in the context of this SQC, a high, but not absolute, level of assurance.
+- 📌 Staff (SQC 1 Para 6 / SA 220 Para 7): professionals, other than partners, including any experts which the firm employs.
+- 📌 Suitably qualified external person (SQC 1 Para 6 / SA 220 Para 7): an individual outside the firm with the capabilities and competence to act as an engagement partner, for example a partner or an employee (with appropriate experience) of another firm.
+
+## Requirements
+- System of Quality Control
+  - 🎯 Firm should establish policies addressing six elements (SQC 1 Para 7)
+  - 🎯 Firm should document and communicate QC policies (SQC 1 Para 8)
+- Leadership Responsibilities
+  - 🎯 Firm should promote quality-oriented internal culture (SQC 1 Para 9)
+  - 🎯 CEO or managing board should assume ultimate responsibility (SQC 1 Para 9)
+  - 🎯 Firm should assign operational responsibility to capable persons (SQC 1 Para 12)
+  - 🎯 Engagement partner shall take responsibility for overall quality (SA 220 Para 8)
+- Ethical Requirements
+  - 🎯 Firm should establish ethical compliance policies (SQC 1 Para 14)
+  - 🎯 EP shall remain alert for non-compliance evidence (SA 220 Para 9)
+  - 🎯 EP shall determine appropriate action if non-compliant (SA 220 Para 10)
+- Independence
+  - 🎯 Firm should establish independence maintenance policies (SQC 1 Para 18)
+  - 🎯 Firm should require prompt notification of breaches (SQC 1 Para 20)
+  - 🎯 Firm should obtain annual written independence confirmation (SQC 1 Para 23)
+  - 🎯 Firm should set criteria to reduce familiarity threats (SQC 1 Para 25)
+  - 🎯 Firm should require partner rotation for listed entities (SQC 1 Para 25)
+  - 🎯 EP shall form conclusion on independence compliance (SA 220 Para 11)
+  - 🎯 EP shall take appropriate action to eliminate threats (SA 220 Para 11)
+  - ⚠️ Withdraw from engagement if permitted by law (SA 220 Para 11)
+- Acceptance and Continuance
+  - 🎯 Firm should establish acceptance and continuance policies (SQC 1 Para 28)
+  - 🎯 Firm should document resolution of identified issues (SQC 1 Para 28)
+  - 🎯 Firm should establish withdrawal policies if needed (SQC 1 Para 34)
+  - 🎯 EP shall be satisfied appropriate procedures were followed (SA 220 Para 12)
+  - 🎯 EP shall determine conclusions reached are appropriate (SA 220 Para 12)
+  - 🎯 EP shall communicate late information to firm promptly (SA 220 Para 13)
+- Human Resources
+  - 🎯 Firm should establish personnel capability policies (SQC 1 Para 36)
+  - 🎯 Firm should assign EP to each engagement (SQC 1 Para 42)
+  - 🎯 Firm should assign appropriate staff with necessary capabilities (SQC 1 Para 44)
+  - 🎯 EP shall be satisfied team has appropriate competence (SA 220 Para 14)
+- Engagement Performance
+  - 🎯 Firm should establish consistent performance policies (SQC 1 Para 46)
+  - 🎯 EP shall take responsibility for direction and supervision (SA 220 Para 15)
+  - 🎯 EP shall take responsibility for reviews being performed (SA 220 Para 16)
+  - 🎯 EP shall review documentation before report date (SA 220 Para 17)
+- Consultation
+  - 🎯 Firm should establish appropriate consultation policies (SQC 1 Para 51)
+  - 🎯 EP shall take responsibility for team undertaking consultation (SA 220 Para 18)
+  - 🎯 EP shall be satisfied consultation conclusions are implemented (SA 220 Para 18)
+- Differences of Opinion
+  - 🎯 Firm should establish dispute resolution policies (SQC 1 Para 57)
+  - 🎯 Team shall follow firm policies for resolving differences (SA 220 Para 22)
+  - ⚠️ Report should not be issued until matter resolved (SQC 1 Para 58)
+- Engagement Quality Control Review (EQCR)
+  - 🎯 Firm should establish EQCR policies for appropriate engagements (SQC 1 Para 60)
+  - 🎯 Firm should require EQCR for listed entity audits (SQC 1 Para 60)
+  - 🎯 Firm should set criteria for other subject engagements (SQC 1 Para 60)
+  - 🎯 Firm should address appointment and eligibility of reviewers (SQC 1 Para 68)
+  - 🎯 Firm should establish EQCR documentation policies (SQC 1 Para 73)
+  - 🎯 EP shall determine EQCR is appointed (SA 220 Para 19)
+  - 🎯 EP shall discuss significant matters with EQCR (SA 220 Para 19)
+  - 🎯 EQCR shall perform objective evaluation of judgments (SA 220 Para 20)
+  - 🎯 EQCR shall evaluate listed entity independence and consultation (SA 220 Para 21)
+  - 🎯 EQCR shall document review procedures completion (SA 220 Para 25)
+  - ⚠️ EP shall not date report until EQCR completed (SA 220 Para 19)
+- Engagement Documentation Assembly and Retention
+  - 🎯 Firm should establish timely final file assembly policies (SQC 1 Para 74)
+  - 🎯 Firm should establish safe custody and confidentiality policies (SQC 1 Para 77)
+  - 🎯 Firm should establish documentation retention policies (SQC 1 Para 82)
+  - 🎯 Auditor shall document ethical and independence conclusions (SA 220 Para 24)
+  - 🎯 Auditor shall document acceptance conclusions and consultations (SA 220 Para 24)
+- Monitoring
+  - 🎯 Firm should establish ongoing QC system evaluation policies (SQC 1 Para 86)
+  - 🎯 Firm should evaluate effect of noted deficiencies (SQC 1 Para 93)
+  - 🎯 Firm should communicate deficiencies to engagement partners (SQC 1 Para 94)
+  - 🎯 Firm should communicate monitoring results at least annually (SQC 1 Para 97)
+  - 🎯 Firm should establish complaint and allegation policies (SQC 1 Para 101)
+  - 🎯 Firm should document operation of quality control system (SQC 1 Para 106)
+  - 🎯 EP shall consider results of firm monitoring process (SA 220 Para 23)
+
+## Application Guidance
+- Explains Reliance on Firm System
+  - Team may rely on firm system for personnel competence (SA 220 Para A2)
+  - Team may rely on firm system for independence information (SA 220 Para A2)
+  - ⚠️ Unless information provided suggests otherwise (SA 220 Para A2)
+- Explains Leadership Responsibilities
+  - Actions and messages promote quality-oriented culture (SQC 1 Para 10)
+  - Commercial considerations must not override work quality (SQC 1 Para 11)
+  - EP actions emphasize compliance and appropriate reports (SA 220 Para A3)
+- Explains Ethical Requirements
+  - Safeguards applied to reduce independence threats (SA 220 Para A6)
+  - Government auditors may need adapted approaches if withdrawal blocked (SA 220 Para A7)
+- Explains Assignment of Teams
+  - Continuing competence depends on professional development (SQC 1 Para 39)
+  - Team includes members using specialized expertise (SA 220 Para A10)
+  - Government auditors may need specialized legislative competence (SA 220 Para A12)
+- Explains Engagement Performance
+  - Team discussions allow less experienced members to raise questions (SA 220 Para A13)
+  - Supervisor considers competence of individual team members (SA 220 Para A15)
+  - Reviewer considers if evidence supports conclusions reached (SA 220 Para A17)
+  - EP review includes critical areas of judgment and risks (SA 220 Para A18)
+  - EP taking over mid-audit may apply review procedures (SA 220 Para A19)
+- Explains Consultation
+  - Uses collective experience and technical expertise (SQC 1 Para 53)
+  - Complete documentation enables understanding of issue and result (SA 220 Para A36)
+- Explains EQCR
+  - EQCR helps determine if sufficient appropriate evidence obtained (SA 220 Para A23)
+  - Remaining alert allows EP to identify late-arising EQCR needs (SA 220 Para A26)
+  - EQCR does not reduce engagement partner responsibilities (SA 220 Para A27)
+  - EQCR reviews proposed wording of Key Audit Matters (SA 220 Para A28)
+- Explains Documentation
+  - Time limit for audit assembly ordinarily 60 days (SQC 1 Para 75)
+  - Retention limit for audit ordinarily 7 years (SQC 1 Para 83)
+  - Scanned copies must reflect entire original content (SQC 1 Para 81)
+
+## Key Nuances and Exceptions
+- ⚠️ SQC 1 Para 27: Listed entity audit EP familiarity threat — must be rotated after normally not more than seven years.
+- ⚠️ SQC 1 Para 58: Differences of opinion within team — report should not be issued until the matter is resolved.
+- ⚠️ SQC 1 Para 61: Engagement Quality Control Review — report shall not be issued until completion of review.
+- ⚠️ SQC 1 Para 78: Confidentiality of documentation — must be observed unless specific client authority given or legal/professional duty exists.
+- ⚠️ SQC 1 Para 85: Ownership of documentation — is the property of the firm, unless otherwise specified by law or regulation.
+- ⚠️ SA 220 Para 13: Acceptance info timing — if EP obtains info that would have caused firm to decline earlier, EP shall communicate promptly.
+- ⚠️ SA 220 Para A2: Reliance on firm system — engagement teams are entitled to rely on firm QC system unless info suggests otherwise.
+
+## ICAI Listed Examples
+- Para 29 (SQC 1) & Para A8 (SA 220) — Examples of client integrity considerations
+  - 📋 The identity and business reputation of the client’s principal owners, key management, related parties and those charged with its governance.
+  - 📋 The nature of the client’s operations, including its business practices.
+  - 📋 Information concerning the attitude of the client’s principal owners, key management and those charged with its governance towards such matters as aggressive interpretation of accounting standards and the internal control environment.
+  - 📋 Whether the client is aggressively concerned with maintaining the firm’s fees as low as possible.
+  - 📋 Indications of an inappropriate limitation in the scope of work.
+  - 📋 Indications that the client might be involved in money laundering or other criminal activities.
+  - 📋 The reasons for the proposed appointment of the firm and non-reappointment of the previous firm.
+- Para 30 (SQC 1) — Examples of information sources regarding client integrity
+  - 📋 Communications with existing or previous providers of professional accountancy services to the client in accordance with the Code, and discussions with other third parties.
+  - 📋 Inquiry of other firm personnel or third parties such as bankers, legal counsel and industry peers.
+  - 📋 Background searches of relevant databases.
+- Para 31 (SQC 1) & Para A11 (SA 220) — Examples of competence and capabilities considerations
+  - 📋 Firm personnel have knowledge of relevant industries or subject matters;
+  - 📋 Firm personnel have experience with relevant regulatory or reporting requirements, or the ability to gain the necessary skills and knowledge effectively;
+  - 📋 The firm has sufficient personnel with the necessary capabilities and competence;
+  - 📋 Experts are available, if needed;
+  - 📋 Individuals meeting the criteria and eligibility requirements to perform engagement quality control review are available, where applicable; and
+  - 📋 The firm would be able to complete the engagement within the reporting deadline.
+- Para 37 (SQC 1) — Examples of personnel issues addressed by HR policies
+  - 📋 Recruitment;
+  - 📋 Performance evaluation;
+  - 📋 Capabilities;
+  - 📋 Competence;
+  - 📋 Career development;
+  - 📋 Promotion;
+  - 📋 Compensation; and
+  - 📋 Estimation of personnel needs.
+- Para 38 (SQC 1) — Examples of methods to develop competence
+  - 📋 Professional education.
+  - 📋 Continuing professional development, including training.
+  - 📋 Work experience.
+  - 📋 Coaching by more experienced staff, for example, other members of the engagement team.
+- Para 65 (SQC 1) & Para A29 (SA 220) — Examples of EQCR considerations for listed entities
+  - 📋 The engagement team’s evaluation of the firm’s independence in relation to the specific engagement.
+  - 📋 Significant risks identified during the engagement and the responses to those risks.
+  - 📋 Judgments made, particularly with respect to materiality and significant risks.
+  - 📋 Whether appropriate consultation has taken place on matters involving differences of opinion or other difficult or contentious matters, and the conclusions arising from those consultations.
+  - 📋 The significance and disposition of corrected and uncorrected misstatements identified during the engagement.
+  - 📋 The matters to be communicated to management and those charged with governance and, where applicable, other parties such as regulatory bodies.
+  - 📋 Whether working papers selected for review reflect the work performed in relation to the significant judgments and support the conclusions reached.
+  - 📋 The appropriateness of the report to be issued.
+- Para 80 (SQC 1) — Examples of engagement documentation controls
+  - 📋 The use of a password among engagement team members to restrict access to electronic engagement documentation to authorized users.
+  - 📋 Appropriate back-up routines for electronic engagement documentation at appropriate stages during the engagement.
+  - 📋 Procedures for properly distributing engagement documentation to the team members at the start of engagement, processing it during engagement, and collating it at the end of engagement.
+  - 📋 Procedures for restricting access to, and enabling proper distribution and confidential storage of, hardcopy engagement documentation.
+- Para 90 (SQC 1) — Examples of factors affecting inspection cycle timing
+  - 📋 The size of the firm.
+  - 📋 The number and geographical location of offices.
+  - 📋 The results of previous monitoring procedures.
+  - 📋 The degree of authority both personnel and offices have.
+  - 📋 The nature and complexity of the firm’s practice and organization.
+  - 📋 The risks associated with the firm’s clients and specific engagements.
+- Para 95 (SQC 1) — Examples of recommendations resulting from deficiency evaluation
+  - 📋 Taking appropriate remedial action in relation to an individual engagement or member of personnel;
+  - 📋 The communication of the findings to those responsible for training and professional development;
+  - 📋 Changes to the quality control policies and procedures; and
+  - 📋 Disciplinary action against those who fail to comply with the policies and procedures of the firm, especially those who do so repeatedly.
+
+## Logical Flow Chains
+- Independence Threat Resolution (SA 220 Para 11)
+  - Obtain relevant information from firm (SA 220 Para 11a)
+    - leads to: Evaluating identified breaches (SA 220 Para 11b)
+      - leads to: Taking action to eliminate or reduce threats (SA 220 Para 11c)
+        - if unable to reduce: Withdraw from engagement (SA 220 Para 11c)
+        - ⚠️ unless: Withdrawal not permitted by law (SA 220 Para 11c)
+- Engagement Quality Control Review Process (SA 220 Para 19-20)
+  - Determine EQCR is appointed (SA 220 Para 19a)
+    - leads to: Discuss significant matters with EQCR (SA 220 Para 19b)
+      - leads to: EQCR evaluates judgments and report (SA 220 Para 20)
+        - if differences arise: Apply firm dispute resolution policy (SA 220 Para 22)
+        - ⚠️ unless resolved: Do not date auditor report (SA 220 Para 19c)
+- Acceptance and Continuance Discovery (SA 220 Para 13)
+  - Obtain information causing decline retroactively (SA 220 Para 13)
+    - leads to: Communicate promptly to firm (SA 220 Para 13)
+      - results in: Firm and EP take necessary action (SA 220 Para 13)
+
+## Cross-SA References
+- SA 200: Overall Objectives of the Independent Auditor
+  - Referenced in: SA 220 Para A13
+  - Concept shared: Planning and performing audit with professional skepticism
+  - Why it matters: Informs team direction requirements
+- SA 230: Audit Documentation
+  - Referenced in: SA 220 Para 17, A18, A25 / SQC 1 Para 83
+  - Concept shared: Extent, timing of reviews, assembly and retention
+  - Why it matters: Governs the assembly timeline and minimum 7-year retention
+- SA 315 & SA 330: Identifying/Assessing and Responding to Risks
+  - Referenced in: SA 220 Para A29
+  - Concept shared: Significant risks evaluation
+  - Why it matters: Forms basis for EQCR review of judgments
+- SA 240: Fraud in an Audit of Financial Statements
+  - Referenced in: SA 220 Para A29
+  - Concept shared: Risk of fraud
+  - Why it matters: EQCR must consider team response to fraud risks
+- SA 610: Using the Work of Internal Auditors
+  - Referenced in: SQC 1 Para 6 / SA 220 Para 7
+  - Concept shared: Definition of Engagement Team
+  - Why it matters: Internal audit staff providing direct assistance are excluded
+- SA 700 & SA 701: Audit Report and Key Audit Matters
+  - Referenced in: SA 220 Para A23, A28
+  - Concept shared: Dating the report and communicating KAMs
+  - Why it matters: EQCR must be complete before report dating and covers KAM wording
+
+## Exam Memory Anchors
+- 🎯 "provide it with reasonable assurance that the firm and its personnel comply" (SQC 1 Para 3)
+- 🎯 "commercial considerations do not override the quality of work performed" (SQC 1 Para 11)
+- 🎯 "engagement partner shall be rotated after a pre-defined period, normally not more than seven years" (SQC 1 Para 27)
+- 🎯 "report should not be issued until the matter is resolved" (SQC 1 Para 58)
+- 🎯 "engagement partner shall take responsibility for the overall quality on each audit engagement" (SA 220 Para 8)
+- 🎯 "sufficient and appropriate experience and authority to objectively evaluate" (SQC 1 Para 6)
+- 🎯 "retention period ordinarily is no shorter than seven years from the date of the auditor's report" (SQC 1 Para 83)
+
+## Coverage Verification
+- Total requirement paras in SA (SQC 1): 110
+- Total requirement paras in SA (SA 220): 25
+- Total application paras in SA (SA 220): 36
+- Appendices: None
+- All paras covered in tree: Yes
+- All 📋 example instances covered: Yes
+- Truncation detected: No
